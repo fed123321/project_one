@@ -1,2 +1,2 @@
-# project_two
-Федюкович Андрей Евгеньевич, junior, сhapter_one
+# project_one
+Федюкович Андрей Евгеньевич, junior, project_one
